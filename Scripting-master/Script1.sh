@@ -4,4 +4,6 @@ echo "We are learning Branching"
 echo "I am from batch-33 and learning git/github to improve my skills"
 echo "After Git we will learn about Docker and Kubernetes"
 echo " I am Mrinal Mondal"
+echo "I want Learn Fortinet Firewall"
+echo "I want to learn Routing"
 
