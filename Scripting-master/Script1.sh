@@ -6,6 +6,6 @@ echo "After Git we will learn about Docker and Kubernetes"
 echo " I am Mrinal Mondal"
 echo "I want Learn Fortinet Firewall"
 echo "I want to learn Routing"
+echo "Our new batch will start on 4th Oct"
+echo"I will be there Hinjewadi office on Sunday"
 echo "Today I am Learning Merge conflict"
-echo "Good Morning"
-
